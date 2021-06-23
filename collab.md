@@ -2,4 +2,4 @@ The user davidgaba created this md file.
 
 This should update public repo
 
-![cat3](cat3.jpg)
+![cat2](cat2.jpg)
