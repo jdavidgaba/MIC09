@@ -2,6 +2,8 @@ This is a new file created in Git
 
 ![alt text](../cat1.jpg)
 
+> [!VIDEO www.microsoft.com/en-us/videoplayer/embed/RE1LGec]
+
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE1LGec]
 
 > [!VIDEO www.google.ca]
