@@ -4,11 +4,11 @@ This is a new file created in Git
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE1LGec]
 
-> [!VIDEO google.ca]
-
 > [!VIDEO www.google.ca]
 
 > [!VIDEO https://www.google.ca/]
+
+> [!VIDEO www.youtube.com]
 
 > [!VIDEO https://www.youtube.com/watch?v=p5LcCGTmuM0]
 
